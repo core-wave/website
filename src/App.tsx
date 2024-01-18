@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App flex flex-col gap-2 min-h-screen w-full bg-slate-950 items-center justify-center">
+    <div className="App flex flex-col gap-2 min-h-screen w-full bg-radial items-center justify-center">
       <img
         src={logo}
         className="max-w-48 transition hover:scale-110 ease-in-out duration-600"
