@@ -1,3 +1,3 @@
 .bg-radial {
-    background-image: radial-gradient(circle, #021B18, #000000); /* Replace color1, color2, color3 with your desired colors */
+    background-image: radial-gradient(circle, rgba(5,57,51,1) 10%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); /* Replace color1, color2, color3 with your desired colors */
 }
